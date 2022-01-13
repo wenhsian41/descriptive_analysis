@@ -1,8 +1,8 @@
 # descriptive_analysis
 
 <b>Chart 1:</b> Histogram: SCs curve is closer to normal distribution, signifying a more stable perfromance in general and a less dispersed std</br>
-<b>Chart 2:</b> Bar: SC30 made over 8000 3pt shots, whereas still manage to sustain a over 40% percentage</br>
-<b>Chart 3:</b> Scatter: SC30's 3pt% goes up as he shoots more</br>
+<b>Chart 2:</b> Bar: SC made 8000+ 3pt shots, whereas still sustain a over 40% percentage, thus the quality does not compromise for high quantity</br>
+<b>Chart 3:</b> Scatter: SC's 3pt% goes up as he shoots more; however, players typically are the other way around due to fatigue and etc.</br>
 
 <b>Conclusion:</b> both players are great, but SC30's performance beyond the 3pt line is just phenomenal</br>
 
