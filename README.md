@@ -1,6 +1,6 @@
 # descriptive_analysis
 
-<b>Chart 1:</b> Histogram: SC30's curve is more close to a normal distribution, signifying a more stable perfromance in general</br>
+<b>Chart 1:</b> Histogram: SCs curve is closer to normal distribution, signifying a more stable perfromance in general and a less dispersed std</br>
 <b>Chart 2:</b> Bar: SC30 made over 8000 3pt shots, whereas still manage to sustain a over 40% percentage</br>
 <b>Chart 3:</b> Scatter: SC30's 3pt% goes up as he shoots more</br>
 
